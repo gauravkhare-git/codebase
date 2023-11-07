@@ -1,0 +1,9 @@
+[submodule "https:/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@github.com/gauravkhare-git/codebase2.git"]
+	path = https:/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@github.com/gauravkhare-git/codebase2.git
+	url = https://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@github.com/gauravkhare-git/codebase1.git
+[submodule "codebase1"]
+	path = codebase1
+	url = https://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@github.com/gauravkhare-git/codebase1.git
+[submodule "codebase2"]
+	path = codebase2
+	url = https://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@github.com/gauravkhare-git/codebase2.git
